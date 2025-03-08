@@ -249,7 +249,3 @@ SOPMA :
 ![](images/795eb0d67c5e7e59c49ab705ebd41708_MD5.png)
 
 TBtools 热图美化可以参考：https://yuanj.top/posts/p5x7e7k5/
-
-## 数据可用
-
-本文使用的所有数据均已保存至 GitHub：https://github.com/imjiaoyuan/OsSnRK2-GFI
